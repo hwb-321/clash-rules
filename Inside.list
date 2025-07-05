@@ -1,0 +1,5 @@
+# Tailscale
+IP-CIDR,100.64.202.0/24,no-resolve
+DOMAIN-SUFFIX,xinghen.ip-ddns.com
+DOMAIN-SUFFIX,akaimoe.ip-ddns.com
+DOMAIN-SUFFIX,xcalist.top
