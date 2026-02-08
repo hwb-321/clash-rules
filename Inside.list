@@ -1,9 +1,9 @@
 # Tailscale
 IP-CIDR,100.64.202.0/24,no-resolve
 
-DOMAIN-SUFFIX, xinghen.ip-ddns.com
-DOMAIN-SUFFIX, akaimoe.ip-ddns.com
-DOMAIN-SUFFIX, xcalist.top
-DOMAIN-SUFFIX, tjupt.org
-DOMAIN-SUFFIX, netbird.cloud
-DOMAIN-SUFFIX, xinghen.ip-ddns.com
+DOMAIN-SUFFIX,xinghen.ip-ddns.com
+DOMAIN-SUFFIX,akaimoe.ip-ddns.com
+DOMAIN-SUFFIX,xcalist.top
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,netbird.cloud
+DOMAIN-SUFFIX,xinghen.ip-ddns.com
