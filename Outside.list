@@ -1,41 +1,41 @@
 # 机场
-DOMAIN-SUFFIX, kle.jp
-DOMAIN-SUFFIX, hutao.cloud
-DOMAIN-SUFFIX, syq.tw
+DOMAIN-SUFFIX,kle.jp
+DOMAIN-SUFFIX,hutao.cloud
+DOMAIN-SUFFIX,syq.tw
 
-DOMAIN-SUFFIX, decrypt.day
-DOMAIN-SUFFIX, cloudns.net
-DOMAIN-SUFFIX, shadowrocket.one
-DOMAIN-SUFFIX, 1lib.sk
-DOMAIN-KEYWORD, z-lib 
-DOMAIN-SUFFIX, metacubex.one
-DOMAIN-SUFFIX, xeton.dev
-DOMAIN-SUFFIX, bianyuan.xyz
-DOMAIN-SUFFIX, orbstack.dev
-DOMAIN-SUFFIX, kubernetes.io
-DOMAIN-SUFFIX, civitai.com
-DOMAIN-SUFFIX, huggingface.co
-DOMAIN-SUFFIX, paofu.cloud
-DOMAIN-SUFFIX, 1msyun.com
-DOMAIN-SUFFIX, ubuntu.com
-DOMAIN-SUFFIX, userscript.zone
-DOMAIN-SUFFIX, tampermonkey.net
-DOMAIN-KEYWORD, cursor
-DOMAIN-SUFFIX, arxiv.org
-DOMAIN-SUFFIX, quack.im
-DOMAIN-SUFFIX, doi.org
-DOMAIN-SUFFIX, ieee.org
-DOMAIN-SUFFIX, wandb.ai
-DOMAIN-SUFFIX, zotero.org
-DOMAIN-SUFFIX, wallhaven.cc
-DOMAIN-SUFFIX, aaai.org
-DOMAIN-SUFFIX, overleaf.com
-DOMAIN-SUFFIX, aclanthology.org
-DOMAIN-SUFFIX, launchpadcontent.net
-DOMAIN-SUFFIX, gnome.org
-DOMAIN-SUFFIX, openreview.net
-DOMAIN-SUFFIX, flyingbird.cc
-DOMAIN-SUFFIX, edge-x.me
-DOMAIN-SUFFIX, 一元机场.com
-DOMAIN-SUFFIX, ednovas.org
-DOMAIN-SUFFIX, openart.ai
+DOMAIN-SUFFIX,decrypt.day
+DOMAIN-SUFFIX,cloudns.net
+DOMAIN-SUFFIX,shadowrocket.one
+DOMAIN-SUFFIX,1lib.sk
+DOMAIN-KEYWORD,z-lib 
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,xeton.dev
+DOMAIN-SUFFIX,bianyuan.xyz
+DOMAIN-SUFFIX,orbstack.dev
+DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,paofu.cloud
+DOMAIN-SUFFIX,1msyun.com
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,userscript.zone
+DOMAIN-SUFFIX,tampermonkey.net
+DOMAIN-KEYWORD,cursor
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,quack.im
+DOMAIN-SUFFIX,doi.org
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,wandb.ai
+DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,aaai.org
+DOMAIN-SUFFIX,overleaf.com
+DOMAIN-SUFFIX,aclanthology.org
+DOMAIN-SUFFIX,launchpadcontent.net
+DOMAIN-SUFFIX,gnome.org
+DOMAIN-SUFFIX,openreview.net
+DOMAIN-SUFFIX,flyingbird.cc
+DOMAIN-SUFFIX,edge-x.me
+DOMAIN-SUFFIX,一元机场.com
+DOMAIN-SUFFIX,ednovas.org
+DOMAIN-SUFFIX,openart.ai
